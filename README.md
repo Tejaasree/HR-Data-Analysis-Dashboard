@@ -31,8 +31,8 @@ The following steps were followed to complete this project:
 - Prepared dataset for analysis
 
 3.Data Modeling
--Structured data for analysis
--Created calculated columns and measures using DAX
+- Structured data for analysis
+- Created calculated columns and measures using DAX
 
 4.KPI Development using DAX
 Created measures such as:
