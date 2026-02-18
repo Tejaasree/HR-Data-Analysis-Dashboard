@@ -22,6 +22,7 @@ Build an interactive dashboard for HR decision-making
 
 ## Process:
 The following steps were followed to complete this project:
+
 1.Data Collection
 - Imported HR dataset from CSV file into Power BI
 
