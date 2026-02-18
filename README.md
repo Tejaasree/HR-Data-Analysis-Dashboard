@@ -1,5 +1,5 @@
-#HR Analytics Dashboard – Employee Attrition Analysis (Power BI)
-##The goal of this project is to transform raw HR data into meaningful business insights using data modeling, DAX calculations, and interactive visualizations.
+# HR Analytics Dashboard – Employee Attrition Analysis (Power BI)
+## The goal of this project is to transform raw HR data into meaningful business insights using data modeling, DAX calculations, and interactive visualizations.
 Analyze employee attrition patterns and identify key drivers
 Monitor workforce distribution across departments and roles
 Identify high-risk attrition groups based on salary, age, and experience
